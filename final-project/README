@@ -1,0 +1,17 @@
+AUTHOR: Andrew Paettie
+
+DEPENDENCIES:
+   python 2.7
+   python libraries sklearn and numpy (on debian-like OSes: 'sudo apt-get install python-sklearn python-numpy' See google for instructions for getting these libraries on other OSes)
+
+RUNNING:
+   python main.py <path/to/train.txt> <path/to/prelim-labeled.txt> <path/to/final-unlabled.txt>
+
+	where train.txt is the original labeled training file
+              prelim-labeled.txt is the labeled version of the test file used in the preliminary evaluation
+              final-unlabled.txt is the final unlabeled data to classify
+
+WHAT THIS PROGRAM DOES:
+   uses sklearn library classifiers for feature selection and classification
+   outputs 3 output files predicted from the 3 best classifiers in the system
+   

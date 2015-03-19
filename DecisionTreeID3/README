@@ -1,0 +1,28 @@
+Binary ID3 Decision Tree
+Author: Andrew Paettie
+Date: 9-20-14
+
+About:
+-----
+
+This zip contains an implementation of a binary decision tree, one in which attribute and classifier values are 0 or 1.  This binary decision tree is built using an algorithm based on the ID3 algorithm.  Input is provided by files for training data and testing data.  These names of the files are provided as arguments to main program, a demonstration of the decision tree.
+
+This zip contains:
+     a learning curve (graph.pdf)
+     several training and test data sets (trainX.dat, testX.dat)
+     expected output for the first 2 data sets (tree.txt, tree2.txt)
+     python src code (main.py, DecisionTree.py)
+
+Compiling/Running:
+-----------------
+
+This program was written in python, and does not need to be compiled.
+Simply extract this zip somewhere with access to python (2.7), if you haven't already done so, and run (from where you extracted this zip):
+
+      python main.py </path/to/training file> </path/to/test file>
+
+
+Required Environment:
+--------------------
+
+I don't call anything fancy, so this should work in any python 2.7 environment.  I wrote this on debian linux, and tested it in UTD's cs2 environment, so should you not have access to python, you can get it from the school's cs2 environment.

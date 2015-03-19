@@ -1,0 +1,33 @@
+Binary Gradient Descent Classifier
+Author: Andrew Paettie
+Date: 10-22-14
+
+About:
+-----
+
+    This homework features a binary single layer perceptron which is used for classification of an unknown number of
+     binary valued attributes .  The perceptron uses gradient descent to update weights as it iterates until it gets
+     tired.
+    Weight update rule:
+    wi = weight at index i, sigma = 1 / (1 + e ^ -t)
+     wi <= wi + (learningRate)(derivative Error wrt. wi)
+        <= wi + (learningRare)(delta sigma)(attribute value)(sigma prime)
+        <= wi + (learningRate)(actual class - sigma)(attribute value)(sigma)(1-sigma)
+
+This zip contains:
+     several training and test data sets (trainX.dat, testX.dat)
+     python src code (main.py, BinaryGDClassifier.py)
+
+Compiling/Running:
+-----------------
+
+This program was written in python, and does not need to be compiled.
+Simply extract this zip somewhere with access to python (2.7), if you haven't already done so, and run (from where you extracted this zip):
+
+      python main.py </path/to/training file> </path/to/test file>
+
+
+Required Environment:
+--------------------
+
+I don't call anything fancy, so this should work in any python 2.7 environment.  I wrote this on debian linux, and tested it in UTD's cs2 environment, so should you not have access to python, you can get it from the school's cs2 environment.

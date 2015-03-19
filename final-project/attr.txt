@@ -1,0 +1,177 @@
+B1: 0,1.
+B2: 0,1.
+B3: 0,1.
+C1: cont.
+C2: cont.
+C3: cont.
+C4: cont.
+C5: cont.
+C6: cont.
+C7: cont.
+C8: cont.
+C9: cont. 
+C10: cont. 
+C11: cont. 
+C12: cont. 
+C13: cont. 
+C14: cont. 
+C15: cont. 
+C16: cont. 
+C17: cont. 
+C18: cont. 
+C19: cont. 
+C20: cont. 
+C21: cont. 
+C22: cont. 
+C23: cont. 
+C24: cont. 
+C25: cont. 
+C26: cont. 
+C27: cont. 
+C28: cont. 
+C29: cont. 
+C30: cont. 
+C31: cont. 
+C32: cont. 
+C33: cont. 
+C34: cont. 
+C35: cont. 
+C36: cont. 
+C37: cont. 
+C38: cont. 
+C39: cont. 
+C40: cont. 
+C41: cont. 
+C42: cont. 
+C43: cont. 
+C44: cont. 
+C45: cont. 
+C46: cont. 
+C47: cont. 
+C48: cont. 
+C49: cont. 
+C50: cont. 
+C51: cont. 
+C52: cont. 
+C53: cont. 
+C54: cont. 
+C55: cont. 
+C56: cont. 
+C57: cont. 
+C58: cont. 
+C59: cont. 
+C60: cont. 
+C61: cont. 
+C62: cont. 
+C63: cont. 
+C64: cont. 
+C65: cont. 
+C66: cont. 
+C67: cont. 
+C68: cont. 
+C69: cont. 
+C70: cont. 
+C71: cont. 
+C72: cont. 
+C73: cont. 
+C74: cont. 
+C75: cont. 
+C76: cont. 
+C77: cont. 
+C78: cont. 
+C79: cont. 
+C80: cont. 
+C81: cont. 
+C82: cont. 
+C83: cont. 
+C84: cont. 
+C85: cont. 
+C86: cont. 
+C87: cont. 
+C88: cont. 
+C89: cont. 
+C90: cont. 
+C91: cont. 
+C92: cont. 
+C93: cont. 
+C94: cont. 
+C95: cont. 
+C96: cont. 
+C97: cont. 
+C98: cont. 
+C99: cont. 
+C100: cont. 
+C101: cont. 
+C102: cont. 
+C103: cont. 
+C104: cont.
+C105: cont. 
+C106: cont. 
+C107: cont. 
+C108: cont. 
+C109: cont. 
+C110: cont. 
+C111: cont. 
+C112: cont. 
+C113: cont. 
+C114: cont. 
+C115: cont. 
+C116: cont. 
+C117: cont. 
+C118: cont. 
+C119: cont. 
+C120: cont. 
+C121: cont. 
+C122: cont. 
+C123: cont. 
+C124: cont. 
+C125: cont. 
+C126: cont. 
+C127: cont. 
+C128: cont. 
+C129: cont. 
+C130: cont. 
+C131: cont. 
+C132: cont.  
+C133: cont. 
+C134: cont. 
+C135: cont. 
+C136: cont. 
+C137: cont. 
+C138: cont. 
+C139: cont. 
+YEAR: 2001,2002,2003,2004,2005,2006.
+C140: cont.
+C141: cont.
+C142: cont.
+CT1: cont 0..9.
+CT2: cont 0..9.
+CT3: cont 0..9.
+CT4: cont 0..9.
+CT5: cont 0..9.
+CT6: cont 0..9.
+CT7: cont 0..9.
+CT8: cont 0..9.
+CT9: cont 0..9.
+CT10: cont 0..9.
+CT11: cont 0..9.
+CT12: cont 0..9.
+CT13: cont 0..9.
+CT14: cont 0..9.
+CT15: cont 0..9.
+CT16: cont 0..9.
+CT17: cont 0..9.
+CT18: cont 0..9.
+CT19: cont 0..9.
+CT20: cont 0..9.
+CT21: cont 0..9.
+CT22: cont 0..9.
+CT23: cont 0..9.
+CT24: cont 0..9.
+CT25: cont 0..9.
+CT26: cont 0..9.
+CH1: cont 0..100.
+CH2: cont 0..100.
+CH3: cont 0..100.
+CH4: cont 0..100.
+Class: 0,1.
